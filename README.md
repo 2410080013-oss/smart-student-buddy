@@ -66,3 +66,9 @@ Smart Student Buddy helps students with their academic and college-related activ
 
 streamlit run app.py
 
+\## 📸 Application Screenshot
+
+
+
+!\[Smart Student Buddy App](app\_screenshot.png)
+
