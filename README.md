@@ -72,3 +72,9 @@ streamlit run app.py
 
 !\[Smart Student Buddy App](app\_screenshot.png)
 
+\## 🌐 Live Demo
+
+
+
+\[Click here to use Smart Student Buddy](https://smart-student-buddy.streamlit.app/)
+
